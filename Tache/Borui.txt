@@ -14,4 +14,7 @@ Parti Score :
   -
   -
 - Connexion avec le système d'analyse et traitement (Selmen)
-- affichage du score (avec les variables)
+- utiliser les donnés transmis pour calculer le score
+- renvoie du score au système d'analyse et traitement
+
+- système d'affichage du score
