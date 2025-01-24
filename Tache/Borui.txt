@@ -1,0 +1,17 @@
+Objectif principal :
+-Envoyer des balles (avec différents angles, aléatoirement)
+-Afficher le score
+
+Objectif secondaire :
+-analyse
+-score
+-cible
+
+Parti Score :
+- créer les variable :
+  (list)
+  -
+  -
+  -
+- Connexion avec le système d'analyse et traitement (Selmen)
+- affichage du score (avec les variables)
