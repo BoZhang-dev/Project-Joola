@@ -9,7 +9,7 @@ Objectif secondaire :
 
 Parti Score :
 - créer les variable :
-  (list des variables utlisés pour synchroniser)
+  (list des variables utlisés à synchroniser)
   -
   -
   -
