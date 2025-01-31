@@ -1,9 +1,13 @@
 <h1>Partie SIN</h1>
-Equipe composer par Borui, Selmen, Arthure
+Equipe composée par Borui, Selmen, Arthur
 
 <h2>
-Tâche Principaux
+Tâche Principales
 <h2>
+- Execution d'un programme python sur une carte 
+- calculer le score
+- zone de capteur pour capter le renvoi des balles
+- programme de synthèse vocale visant à annoncer le score et à encourager le joueur
 
 
 
