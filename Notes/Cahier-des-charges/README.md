@@ -21,7 +21,7 @@ Tâche Bonus/Secondaire
 
 
 <h2>
-Tâche détaillée
+Tâche détaillée et Solution technique
 </h2>
 
 <h3>Borui</h3>
