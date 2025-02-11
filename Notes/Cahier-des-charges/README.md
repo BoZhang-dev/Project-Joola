@@ -7,7 +7,7 @@ Tâche Principales
 <p>- Execution d'un programme python sur une carte </p>
 <p>- calculer le score </p>
 <p>- zone de capteur pour capter le renvoi des balles </p>
-<p>- programme de synthèse vocale visant à annoncer le score et à encourager le joueur </p>
+<p>- programme de synthèse vocale visant à annoncer le score </p>
 
 
 
@@ -16,13 +16,15 @@ Tâche Principales
 Tâche Bonus/Secondaire
 </h2>
 
-
+<p> encourager le joueur par synthèse vocale </p>
 
 
 
 <h2>
 Tâche détaillée et Solution technique
 </h2>
+
+
 
 <h3>Borui</h3>
 
