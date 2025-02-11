@@ -35,5 +35,7 @@ Tâche détaillée et Solution technique
 <p>  </p>
 
 <h3>Arthur</h3>
-<p>  </p>
-<p>  </p>
+<p> -Execution du programme sur une carte microbit </p>
+<p> -programme visant à annoncer le score et à encourager/féliciter le joueur </p>
+<p> -sert à faciliter la comprehension du score pour tout types de personnes et plus particulièrement les personnes malvoyantes.</p>
+<p> -rend la donne plus positive avec les messages d'encouragement </p>
