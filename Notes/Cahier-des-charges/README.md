@@ -28,7 +28,7 @@ Tâche détaillée et Solution technique
 
 <h3>Borui</h3>
 <p> Creation et gestion d'un système de capteur qui permettra la détection des balles revoyer par le joueur, en définissant les zones ou la balle doit atterir.</p>
-<p> Gestion du système de score en fonction des balles capter, puis afficher le score et renvoyer l'information au système de synthèse vocale. </p>
+<p> Gestion du système de score en fonction des balles capter, puis afficher le score et renvoyer l'information au système de synthèse vocale, mais aussi à un écran pour afficher le score (en temps réel). </p>
 
 <h3>Selmen</h3>
 <p>  </p>
