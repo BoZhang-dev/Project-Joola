@@ -26,7 +26,7 @@ Tâche détaillée et Solution technique
 
 
 <h3>Borui</h3>
-<p> Creation et gestion d'un système de capteur qui permettra la détection d</p>
+<p> Creation et gestion d'un système de capteur qui permettra la détection des balles revoyer par le joueur.</p>
 <p>  </p>
 
 <h3>Selmen</h3>
