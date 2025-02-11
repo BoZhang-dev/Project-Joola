@@ -16,8 +16,22 @@ Tâche Principales
 Tâche Bonus/Secondaire
 </h2>
 
+
+
+
+
+<h2>
+Tâche détaillée
+</h2>
+
 <h3>Borui</h3>
+
+
 
 <h3>Selmen</h3>
 
+
+
 <h3>Arthur</h3>
+
+
