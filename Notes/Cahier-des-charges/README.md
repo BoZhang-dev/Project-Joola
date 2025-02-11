@@ -16,7 +16,7 @@ Tâche Principales
 Tâche Bonus/Secondaire
 </h2>
 
-<p> encourager le joueur par synthèse vocale </p>
+<p>- Encourager le joueur par synthèse vocale </p>
 
 
 
@@ -25,15 +25,14 @@ Tâche détaillée et Solution technique
 </h2>
 
 
-
 <h3>Borui</h3>
-
-
+<p> Creation et gestion d'un système de capteur qui permettra la détection d</p>
+<p>  </p>
 
 <h3>Selmen</h3>
-
-
+<p>  </p>
+<p>  </p>
 
 <h3>Arthur</h3>
-
-
+<p>  </p>
+<p>  </p>
