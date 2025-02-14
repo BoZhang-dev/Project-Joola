@@ -7,7 +7,7 @@ Tâche Principales
 <p>- Execution d'un programme python sur une carte </p>
 <p>- calculer le score </p>
 <p>- zone de capteur pour capter le renvoi des balles </p>
-<p>- programme de synthèse vocale visant à annoncer le score </p>
+<p>- programme de synthèse vocale visant à annoncer le score et d'autre information utile </p>
 
 
 
@@ -31,8 +31,8 @@ Tâche détaillée et Solution technique
 <p> Gestion du système de score en fonction des balles capter, puis afficher le score et renvoyer l'information au système de synthèse vocale, mais aussi à un écran pour afficher le score (en temps réel). </p>
 
 <h3>Selmen</h3>
-<p> -Je peux commencer a créer le code afin de programmer le moteur, par sa vitesse, sa frequence etc. 
-    -Je peux commencer a chervher une interphase physique comme un bouton poussoir. </p>
+<p> -Je peux commencer a créer le code afin de programmer le moteur, par sa vitesse, sa frequence etc. </p>
+<p> -Je peux commencer a chervher une interphase physique comme un bouton poussoir. </p>
 <p>  </p>
 
 <h3>Arthur</h3>
