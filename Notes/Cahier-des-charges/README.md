@@ -1,5 +1,5 @@
 <h1>Partie SIN</h1>
-Equipe composée par Borui, Selmen, Arthur
+Equipe composée par Borui, Selmen (ancien), Arthur
 
 <h2>
 Tâche Principales
