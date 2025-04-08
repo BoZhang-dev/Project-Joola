@@ -1,0 +1,14 @@
+## Gradle
+
+/local.properties
+.gradle/
+gradle-app.setting
+
+## OS Specific
+.DS_Store
+Thumbs.db
+android/libs/
+
+## VS Code
+.vscode/
+
