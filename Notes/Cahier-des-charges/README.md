@@ -24,7 +24,7 @@ Tâche Bonus/Secondaire
 Tâche détaillée et Solution technique
 </h2>
 
-(Les codes seront en Python avec des commandes micro-bit)
+(Les codes seront en Python)
 
 <h3>Borui</h3>
 <p> Creation et gestion d'un système de capteur qui permettra la détection des balles revoyer par le joueur, en définissant les zones ou la balle doit atterir.</p>
